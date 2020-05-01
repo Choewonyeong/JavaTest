@@ -39,7 +39,6 @@ public class Test2{
           TestNumber test = new TestNumber();
           int number = input.getNumber();
           int cnt = 0;
-          System.out.println(number);
           for(int i=1; i<=500; i++){
             test.setOperand(number, i);
             boolean bool = test.getBoolean();
