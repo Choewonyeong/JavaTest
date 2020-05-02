@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// 정수의 배열을 입력받는 클래스 생성
+// 정수의 배열을 입력받는 클래스 선언
 class InputNumbers{
     int[] getNumbers(){
         int[] numbers = new int[5];
