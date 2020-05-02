@@ -5,7 +5,7 @@ class Calculate{
 
     // 변수값 할당 메소드
     void setOperand(int[] numbers){
-        // this : Calculate.numbers
+        // this : Calculate
         this.numbers = numbers;
     }
 
